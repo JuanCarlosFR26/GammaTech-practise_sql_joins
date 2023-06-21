@@ -10,7 +10,7 @@ Deberás `forkear` este repositorio y clonarlo en tu ordenador.
 
 1. En primer lugar, crea una base de datos y, siguiendo este `ERD`, crea las tablas correspondientes: `bills`, `dealers`, `departments` y `shirts`.
 2. En este mismo repositorio encontrarás cuatro archivos `csv` que puedes usar para importar los datos a cada tabla.
-3. Resuelve los ejercicios y guarda cada query en el `README.md` que encontrarás en el repo.
+3. Resuelve los ejercicios y guarda cada query en el `SOLUTION.md` que encontrarás en el repo.
 4. Súbelo a GitHub y haz una pull request al repositorio principal.
 
 ## Ejercicios
