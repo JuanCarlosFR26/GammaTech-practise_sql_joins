@@ -6,7 +6,7 @@ Con estos ejercicios vamos a practicar cómo realizar queries combinando distint
 ## Instrucciones
 Deberás `forkear` este repositorio y clonarlo en tu ordenador.
 
-![[sales_erd.png]]
+![](./sales_erd.png)
 
 1. En primer lugar, crea una base de datos y, siguiendo este `ERD`, crea las tablas correspondientes: `bills`, `dealers`, `departments` y `shirts`.
 2. En este mismo repositorio encontrarás cuatro archivos `csv` que puedes usar para importar los datos a cada tabla.
